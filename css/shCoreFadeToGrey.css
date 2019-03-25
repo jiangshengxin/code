@@ -15,7 +15,7 @@
  * Dual licensed under the MIT and GPL licenses.
  */
  body {
-        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: "Microsoft YaHei",Helvetica,Arial,sans-serif;
         font-size: 13px;
         margin: 0;
     }
@@ -49,7 +49,7 @@
   vertical-align: baseline !important;
   width: auto !important;
   box-sizing: content-box !important;
-  font-family: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important;
+  font-family: "Microsoft YaHei", "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace !important;
   font-weight: normal !important;
   font-style: normal !important;
   font-size: 1em !important;
