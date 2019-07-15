@@ -59,7 +59,7 @@
 .syntaxhighlighter {
   width: 100% !important;
   position: relative !important;
-  overflow: auto !important;
+  /*overflow: auto !important;*/
   font-size: 1em !important;
 }
 .syntaxhighlighter.source {
@@ -147,10 +147,7 @@
   display: inline !important;
 }
 .syntaxhighlighter .toolbar a {
-  display: block !important;
-  text-align: center !important;
-  text-decoration: none !important;
-  padding-top: 1px !important;
+  display: none;
 }
 .syntaxhighlighter .toolbar a.expandSource {
   display: none !important;
@@ -273,9 +270,7 @@
   color: red !important;
 }
 .syntaxhighlighter .toolbar {
-  color: white !important;
-  background: #6ce26c !important;
-  border: none !important;
+  display: none;
 }
 .syntaxhighlighter .toolbar a {
   color: white !important;
